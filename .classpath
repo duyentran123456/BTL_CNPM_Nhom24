@@ -2,5 +2,9 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/DUYEN/Downloads/BTL_CNPM_NHOM_24/libs/DateChooser.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DUYEN/Downloads/BTL_CNPM_NHOM_24/libs/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DUYEN/Downloads/BTL_CNPM_NHOM_24/libs/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DUYEN/Downloads/BTL_CNPM_NHOM_24/libs/mysql-connector-java-8.0.22.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
